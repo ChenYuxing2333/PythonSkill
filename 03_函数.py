@@ -21,7 +21,7 @@ students = [
      "weight": 45.0},
 ]
 
-find_name = "阿"
+find_name = "阿土"
 
 for stu_dict in students:
 
