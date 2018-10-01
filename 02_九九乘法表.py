@@ -6,3 +6,4 @@ while row <= 9:
         col = col + 1
     print("")
     row = row + 1
+# 九九乘法表
