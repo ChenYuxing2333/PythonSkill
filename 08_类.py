@@ -5,5 +5,11 @@
 # @Site    : 
 # @File    : 08_类.py
 # @Software: PyCharm
-class Person(object):
-    pass
+
+class Student(object):
+    count = 0
+
+    def __init__(self,name):
+        self.name = name
+        Student.count += 1
+
